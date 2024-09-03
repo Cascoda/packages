@@ -32,7 +32,7 @@ define Package/python3-typing-extensions
   SECTION:=lang
   CATEGORY:=Languages
   TITLE:=Module with type hints for Python
-  URL:=https://github.com/python/typing
+  URL:=https://github.com/python/typing_extensions
   DEPENDS:= \
 	+python3-light
 endef
